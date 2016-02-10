@@ -2,9 +2,9 @@ using System;
 
 class aa
 {
-	static void Main(string[] args)
-	{
-		// ‰‚ß‚ÄC#‚ğŠw‚Ô•ûX‚É‚²ˆ¥A
-		Console.WriteLine("’n– ¢ŠE");
-	}
+  static void Main(string[] args)
+  {
+    // åˆã‚ã¦C#ã‚’å­¦ã¶æ–¹ã€…ã«ã”æŒ¨æ‹¶
+    Console.WriteLine("åœ°ç„ ä¸–ç•Œ");
+  }
 }
